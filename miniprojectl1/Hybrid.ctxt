@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hybrid
+comment1.params=brand\ engine\ horsepower\ weight\ effeciency\ acceleration
+comment1.target=Hybrid(java.lang.String,\ java.lang.String,\ double,\ int,\ boolean,\ double)
+comment2.params=
+comment2.target=void\ accelerate()
+numComments=3

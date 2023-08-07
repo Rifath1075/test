@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=userInfo
+comment1.params=
+comment1.target=Car\ chooseCar()
+comment2.params=p
+comment2.target=void\ setPosition(int)
+comment3.params=
+comment3.target=int\ getPosition()
+comment4.params=
+comment4.target=Car\ setHybrid()
+comment5.params=
+comment5.target=Car\ setSports()
+comment6.params=
+comment6.target=Car\ setJeep()
+comment7.params=userCar
+comment7.target=java.lang.String\ setType(Car)
+numComments=8
